@@ -1,0 +1,6 @@
+{
+  "name": "Media Source Hub",
+  "description": "Feature-rich and secure social media platform with feeds, reels, music integration, ₹99 Razorpay blue-tick verification, E2EE secret chats with anti-screenshot guard, WebRTC video calling, and live streaming.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
